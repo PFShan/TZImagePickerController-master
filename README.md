@@ -38,5 +38,5 @@
   More infomation please view code.  
   如果你发现了bug，请提一个issue。  
   欢迎给我提pull requests。  
-  更多信息详见代码，也可查看我的博客: [我的博客](http://www.cnblogs.com/tanzhenblog/ "半尺尘 - 博客园")
+  更多代码，也可查看我的博客: [我的博客](http://blog.csdn.net/shan1991fei)
   
