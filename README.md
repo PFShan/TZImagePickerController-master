@@ -37,6 +37,6 @@
   More infomation please view code.  
   如果你发现了bug，请提一个issue。  
   欢迎给我提pull requests。
-  本人在原作者的基础上增加了部分功能各位也可以访问原作者博客[原版](http://www.cnblogs.com/tanzhenblog/)
-  更多代码，也可查看我的博客: [我的博客](http://blog.csdn.net/shan1991fei)
+  本人在原作者的基础上增加了部分功能各位也可以访问原作者博客[原版](http://www.cnblogs.com/tanzhenblog/)。
+  更多代码，也可查看我的博客: [我的博客](http://blog.csdn.net/shan1991fei)。
   
